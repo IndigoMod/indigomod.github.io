@@ -1,19 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
 .link {
     text-decoration: none;
     color: blue;
 }
 
 .title {
-    font-family: "Arial";
     color: white;
+    font-family: 'Raleway', sans-serif;
 }
 
 .desc {
-    font-family: "Arial";
     color: white;
 }
 
 body {
+    font-family: 'Open Sans', sans-serif;
     vertical-align: center;
     background-image: url("https://wallpapercave.com/wp/wp4667228.jpg");
     backdrop-filter: blur(10px);
