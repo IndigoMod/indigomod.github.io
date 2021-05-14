@@ -36,6 +36,11 @@ body {
     padding: 0;
 }
 
+.navitem {
+    list-style: none;
+    list-style-type: none;
+}
+
 .nav {
     backdrop-filter: blue(10px);
     backdrop-filter: brightness(50%);
