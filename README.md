@@ -1,2 +1,1 @@
-# indigomod.github.io
-websitelole
+IndigoMod website
