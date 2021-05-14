@@ -9,6 +9,7 @@
 }
 
 body {
+    vertical-align: center;
     background-image: url("https://wallpapercave.com/wp/wp4667228.jpg");
     backdrop-filter: blur(1px);
 }
