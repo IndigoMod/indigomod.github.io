@@ -1,0 +1,14 @@
+.title {
+    font-family: "Arial";
+    color: white;
+}
+
+.desc {
+    font-family: "Arial";
+    color: white;
+}
+
+body {
+    background-image: url("https://wallpapercave.com/wp/wp4667228.jpg");
+    backdrop-filter: blur(1px);
+}
