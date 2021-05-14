@@ -29,3 +29,9 @@ body {
     background-image: url("https://wallpapercave.com/wp/wp4667228.jpg");
     backdrop-filter: blur(10px);
 }
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
