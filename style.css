@@ -36,13 +36,13 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: inline-block;
 }
 
 .navitem {
     list-style: none;
     list-style-type: none;
     padding: 8px;
-    display: block;
 }
 
 .nav {
@@ -53,5 +53,4 @@ body {
     background-size: cover;
     padding-top: 10px;
     padding-bottom: 10px;
-    display: inline;
 }
