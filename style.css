@@ -52,6 +52,10 @@ body {
     color: white;
 }
 
+li {
+    display: inline;
+}
+
 .nav {
     backdrop-filter: blur(10px);
     background-image: url("indghead.png");
