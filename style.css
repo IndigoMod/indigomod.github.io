@@ -43,6 +43,7 @@ body {
     list-style: none;
     list-style-type: none;
     padding: 8px;
+    display: block;
 }
 
 .nav {
