@@ -41,6 +41,7 @@ body {
 .navitem {
     list-style: none;
     list-style-type: none;
+    margin-left: 20px;
 }
 
 .nav {
@@ -49,4 +50,6 @@ body {
     background-image: url("indghead.png");
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
