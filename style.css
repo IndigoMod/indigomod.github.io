@@ -44,11 +44,12 @@ body {
     list-style-type: none;
     padding: 8px;
     display: block;
+    text-decoration: none;
+    color: white;
 }
 
 .nav {
     backdrop-filter: blur(10px);
-    backdrop-filter: brightness(50%);
     background-image: url("indghead.png");
     background-repeat: no-repeat;
     background-size: cover;
