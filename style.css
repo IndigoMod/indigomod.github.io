@@ -41,7 +41,8 @@ body {
 .navitem {
     list-style: none;
     list-style-type: none;
-    margin-left: 20px;
+    padding: 8px;
+    display: block;
 }
 
 .nav {
@@ -52,4 +53,5 @@ body {
     background-size: cover;
     padding-top: 10px;
     padding-bottom: 10px;
+    display: inline;
 }
