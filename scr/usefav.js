@@ -1,4 +1,5 @@
+import changeFavicon from "favicon.js";
+
 function load() {
-    import changeFavicon from "favicon.js";
     changeFavicon("/shortico.png");
 }
