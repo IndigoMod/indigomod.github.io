@@ -26,7 +26,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     vertical-align: center;
-    background-image: url("indgbg.png");
+    background-image: url("media/indgbg.png");
     backdrop-filter: blur(100px);
     background-repeat: no-repeat;
     background-size: cover;
@@ -58,7 +58,7 @@ li {
 
 .nav {
     backdrop-filter: blur(10px);
-    background-image: url("indghead.png");
+    background-image: url("media/indghead.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 10px;
